@@ -113,7 +113,7 @@ export default function Home() {
         </div>
 
         <a
-          href="/resume.pdf"
+          href="/satcv.pdf"
           className="bg-black text-white px-5 py-2 rounded-lg text-sm hover:scale-105 transition"
         >
           Resume
